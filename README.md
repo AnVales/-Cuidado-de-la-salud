@@ -1,1 +1,1 @@
-# -Cuidado-de-la-salud
+Este análisis exploran las enfermedades que presentan los pacientes, la edad y tipo sanguíneo. A partir de los datos, se identifican la edad de los pacientes con mayor porcentaje de enfermar y la posible relación del tipo sanguineo con enfermedades.
